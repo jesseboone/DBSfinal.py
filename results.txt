@@ -1,0 +1,11 @@
+>final.query([],[])
+ID:1000 Weight:100 Price:1500 Height:5
+Weight:10 ID:102 Price:100
+Weight:31 ExpireYear:2020 ID:101 Price:10
+ID:103 Weight:100 Height:10 Price:150
+ID:105 Weight:10 Price:10
+ID:106 Price:30 Weight:100
+ID:107 
+ID:108 Weight:100 Price:100 Height:10 New:45
+
+>final.query([Weight=100,Price<=100],[])
